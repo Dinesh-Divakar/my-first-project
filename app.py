@@ -10,3 +10,5 @@ while i < 6:
   print("Hello Git!")
 
 print("i added this in work branch")
+
+print("This line is from conflict-demo branch")
