@@ -14,3 +14,5 @@ print("i added this in work branch")
 
 print("This line is from conflict-demo branch")
 print("Merged both: main + conflict-demo")
+
+print("Change made in main project")
