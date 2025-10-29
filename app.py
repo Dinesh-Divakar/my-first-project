@@ -8,3 +8,5 @@ while i < 6:
   i += 1
 
   print("Hello Git!")
+
+print("This line is from main branch")
