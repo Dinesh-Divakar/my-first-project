@@ -10,3 +10,7 @@ while i < 6:
   print("Hello Git!")
 
 print("This line is from main branch")
+print("i added this in work branch")
+
+print("This line is from conflict-demo branch")
+print("Merged both: main + conflict-demo")
