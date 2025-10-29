@@ -17,3 +17,6 @@ print("Merged both: main + conflict-demo")
 
 print("Change made in main project")
 print("git pull origin main")
+
+print("Update from clone repo")
+
