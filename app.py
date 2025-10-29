@@ -16,3 +16,4 @@ print("This line is from conflict-demo branch")
 print("Merged both: main + conflict-demo")
 
 print("Change made in main project")
+print("git pull origin main")
